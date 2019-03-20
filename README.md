@@ -1,10 +1,10 @@
 <img src="musicXLeapMotion.png" align="right" />
 
-# Music Player meets Leap Motion
+# Social Music Player meets Leap Motion
 
-> Music Player with Leap Motion playback control.
+> Music Player with social connection and Leap Motion playback control.
 
-A music player which allows for playback control using Leap Motion. A public feed is visible for all users to share, like, and comments on songs. 
+A mashup of Twitter and Spotify that which allows for playback control using Leap Motion. Social interaction via public feed where users can like, comment, and listen to songs.
 
 Built with Java and Leap Motion SDK.
 
